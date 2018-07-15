@@ -17,5 +17,6 @@ end
 
     def bark
       puts "woof!"
-end
+
 dogname.bark
+end
