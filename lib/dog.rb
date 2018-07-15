@@ -20,4 +20,4 @@ end
     def bark
       puts "woof!"
 end
-name=Dog.new
+name=Dog.new(dog_name)
