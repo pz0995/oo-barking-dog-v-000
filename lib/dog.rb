@@ -9,7 +9,7 @@ end
 def name=(dogname)
 
 @name = dogname
-name = Dog.new("dogname")
+
 end
 
 
