@@ -2,6 +2,7 @@ class Dog
 
 
     def name=(dogname)
+      name = Dog.new("dogname")
 
       @name = dogname
 end
@@ -19,6 +20,4 @@ end
       puts "woof!"
 
 
-end
 
-name = Dog.new("dogname")
