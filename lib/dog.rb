@@ -3,12 +3,12 @@ class Dog
 
     def name=(dog_name)
 
-      @name = dog_name
+      @name
 end
 
-def name=(dog_name)
+def name=(dogname)
 
-@name = dog_name
+@name = dogname
 
 end
 
@@ -20,4 +20,5 @@ end
     def bark
       puts "woof!"
 end
-name=Dog.new(dog_name)
+
+name=Dog.new
