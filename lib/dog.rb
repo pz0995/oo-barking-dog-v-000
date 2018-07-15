@@ -4,9 +4,9 @@ class Dog
       @name = name
     end
 
-    def name(fido)
-      @name = fido
-      fido.name = "Fido"
+    def name(dogname)
+      @name = dogname
+      dogname.name = "Fido"
 
     end
 
