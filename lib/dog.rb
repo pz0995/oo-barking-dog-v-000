@@ -14,4 +14,3 @@ end
 
 
   name = Dog.new
-
