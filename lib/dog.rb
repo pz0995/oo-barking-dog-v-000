@@ -20,5 +20,5 @@ end
 
 
 end
-dogname.bark
+
 name = Dog.new("dogname")
