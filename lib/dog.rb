@@ -17,4 +17,3 @@ class Dog
 
     end
 end
-      dogname = Dog.new
