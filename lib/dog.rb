@@ -20,3 +20,4 @@ end
     def bark
       puts "woof!"
 end
+name=Dog.new
