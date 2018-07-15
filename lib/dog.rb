@@ -17,6 +17,7 @@ end
 
     def bark
       puts "woof!"
-name = Dog.new("dogname")
+
 dogname.bark
+name = Dog.new("dogname")
 end
