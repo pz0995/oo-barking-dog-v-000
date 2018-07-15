@@ -15,4 +15,4 @@ def name(name)
 end
 
 
-  name = Dog.new("this_dogs_name")
+  name = Dog.new("name")
